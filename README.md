@@ -121,11 +121,11 @@ Non-destructive looping for orbits, pulses, and motion graphics. The source item
 
 ## Installation
 
-1. Download **`QwinklesParticles2.rbxmx`** from this repository
+1. Download **`QwinklesParticles2.rbxm`** from this repository
 2. Open Roblox Studio
 3. Open the Explorer (**View → Explorer**)
 4. Right-click **ServerStorage** → **Insert from File**
-5. Select the downloaded `.rbxmx` file. A `Part_IclesV2` model appears under ServerStorage.
+5. Select the downloaded `.rbxm` file. A `Part_IclesV2` model appears under ServerStorage.
 6. **Right-click** the new `Part_IclesV2` → **Save as Local Plugin...** → choose any save location and confirm.
 7. **Restart Roblox Studio.**
 8. After restart, the plugin toolbar button "Qwinkle's Part-Icles 2" will appear.
