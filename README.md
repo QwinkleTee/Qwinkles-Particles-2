@@ -147,12 +147,6 @@ No GitHub visits, no re-inserting files.
 
 Free 7-day trial starts the first time the plugin runs. After that, pick one of:
 
-### Gumroad ($20 USD)
-
-1. https://qwinkletee.gumroad.com/l/qwinklesparticles2
-2. Enter your **Roblox User ID** in the custom field at checkout. (Open your Roblox profile; the number in the URL is your ID.)
-3. You're whitelisted automatically. Reopen the plugin in Studio.
-
 ### Robux (8000 Robux)
 
 1. Buy the gamepass: https://www.roblox.com/game-pass/1779373735/Qwinkles-PartIcles-2
